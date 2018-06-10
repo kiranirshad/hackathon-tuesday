@@ -1,0 +1,23 @@
+button {
+    color: white;
+    background-color: #2a95f4;
+    border-radius: 100px;
+    border: none;
+   height: 60px;
+   width: 60px;
+   font-size: 30px;
+   -webkit-box-shadow: -2px 9px 18px -1px rgba(199,199,199,1);
+-moz-box-shadow: -2px 9px 18px -1px rgba(199,199,199,1);
+box-shadow: -2px 9px 18px -1px rgba(199,199,199,1);
+    position: absolute;
+    top: 127px;
+    left: 225px;
+}
+div {
+    border: 1px solid grey;
+    height: 300px;
+    width: 500px;
+    text-align: center;
+    padding-top: 50px;
+    position: relative;
+}

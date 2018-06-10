@@ -1,0 +1,67 @@
+body {
+    font-family: Helvetica;
+    font-weight: bold;
+}
+i{
+    color: gold;
+}
+p {
+    color: #4768c0;
+}
+#myProgress {
+    width: 13%;
+    background-color: #f3f3f3;
+    margin-left: 57px;
+    margin-top: -42px;
+    margin-bottom: 14px;
+    border: 1px solid #9c9c9c;
+}
+#myBar {
+        width: 73%;
+        height: 30px;
+        background-color: gold;
+        border: 1px solid #bc9a24;
+        border-right: 2px solid #ba8c23;
+}
+#second {
+        width: 18%;
+        height: 30px;
+        background-color: gold;
+        border: 1px solid #bc9a24;
+        border-right: 2px solid #ba8c23;
+}
+#third {
+        width: 6%;
+        height: 30px;
+        background-color: gold;
+        border: 1px solid #bc9a24;
+        border-right: 2px solid #ba8c23;
+}
+#fourth {
+        width: 2%;
+        height: 30px;
+        background-color: gold;
+        border: 1px solid #bc9a24;
+        border-right: 2px solid #ba8c23;
+}
+#fifth {
+        width: 1%;
+        height: 30px;
+        background-color: gold;
+        border: 1px solid #bc9a24;
+        border-right: 2px solid #ba8c23;
+}
+.right {
+    margin-left: 271px;
+    margin-top: -32px;
+    margin-bottom: 18px;
+}
+.top {
+    margin-left: 110px;
+    margin-top: -16px;
+}
+.rate {
+    padding-bottom: 13px;
+    margin-top: -12px;
+}
+ 
